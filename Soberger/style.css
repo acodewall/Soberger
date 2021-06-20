@@ -156,7 +156,7 @@ section .title {
 }
 .header .slider-nav-button {
   display: flex;
-  pointer-events: none;
+  pointer-events: auto;
 }
 .header .slider-nav-button button {
   margin: 0 2px;
